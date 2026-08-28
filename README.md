@@ -13,7 +13,7 @@ I build tools that sit where process engineering, finance and software overlap: 
 
 ### 🧪 What I'm working on
 
-**[finance-analysis-platform](https://github.com/Gerald-ger/finance-analysis-platform)** · Python · FastAPI · React · SQLite
+**[auditable-valuation](https://github.com/Gerald-ger/finance-analysis-platform)** · Python · FastAPI · React · SQLite
 > A local-first equity research platform that treats investment-banking valuation as auditable code: two-stage FCFF DCF, trading comps, a deterministic 0–100 scorecard, and a football-field valuation range — plus an offline LLM analyst. Every assumption carries its source, and the trust checks turn the model on itself (terminal-value share, implied exit multiple, implied perpetual growth). Covered by **811 offline tests**, with a demo mode that runs on frozen financial statements — no API key, no network.
 
 **Enzyme Connect** · *(private)* · Python · FastAPI · JavaScript
