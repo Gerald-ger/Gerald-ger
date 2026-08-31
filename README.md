@@ -16,7 +16,7 @@ I build tools that sit where process engineering, finance and software overlap: 
 **[auditable-valuation](https://github.com/Gerald-ger/auditable-valuation)** · Python · FastAPI · React · SQLite
 > A local-first equity research platform that treats investment-banking valuation as auditable code: two-stage FCFF DCF, trading comps, a deterministic 0–100 scorecard, and a football-field valuation range — plus an offline LLM analyst. Every assumption carries its source, and the trust checks turn the model on itself (terminal-value share, implied exit multiple, implied perpetual growth). Covered by **1043 offline tests**, with a demo mode that runs on frozen financial statements — no API key, no network. [Live demo](https://auditable-valuation.onrender.com).
 
-**Enzyme Connect** · *(private)* · Python · FastAPI · JavaScript
+**biofilter-sizing** · *(private)* · Python · FastAPI · JavaScript
 > Sizing and feasibility screening for enzymatic bioscrubbing of industrial waste gas — a lower-carbon alternative to thermal oxidation. Three resistances in series decide the answer: Henry's law partitioning corrected for pH speciation, two-film mass transfer, and Michaelis–Menten kinetics capped by the oxygen ceiling and integrated along the column. It reports removal efficiency against your permit target and a Damköhler number that says whether the enzyme or the phase boundary is the real limit. Enzyme data derived from BRENDA (CC BY 4.0).
 >
 > Built for the **Asian Hackathon for Green Future 2026** — finalist, top 9 of 439 teams across 22 countries and territories.
