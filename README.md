@@ -47,8 +47,3 @@ I build tools that sit where process engineering, finance and software overlap: 
 ### 🌏 Languages
 
 Cantonese (native) · English (professional working) · Mandarin (conversational)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerald-ger&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Gerald's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-ger&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages" height="150" />
-</div>
